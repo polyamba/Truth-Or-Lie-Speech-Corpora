@@ -25,4 +25,3 @@
 | [М60 говорит правда.m4a](./Audio/55%2B/%D0%9C60%20%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B8%D1%82%20%D0%BF%D1%80%D0%B0%D0%B2%D0%B4%D0%B0.m4a) | [ссылка](./Transcriptions) | [М60 говорит правда.txt](https://github.com/polyamba/Truth-Or-Lie-Speech-Corpora/blob/main/Annotation/%D0%9C60%20%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B8%D1%82%20%D0%BF%D1%80%D0%B0%D0%B2%D0%B4%D0%B0.txt) |              |
 | [М60 врёт.m4a](./Audio/55%2B/%D0%9C60%20%D0%B2%D1%80%D0%B5%CC%88%D1%82.m4a) | [ссылка](./Transcriptions) | [М60 врёт.txt](https://github.com/polyamba/Truth-Or-Lie-Speech-Corpora/blob/main/Annotation/%D0%9C60%20%D0%B2%D1%80%D0%B5%CC%88%D1%82.txt) |              |
 | [М60 3.m4a](./Audio/55%2B/%D0%9C60%203.m4a) | [ссылка](./Transcriptions) | [М60 3.txt](https://github.com/polyamba/Truth-Or-Lie-Speech-Corpora/blob/main/Annotation/%D0%9C60%203.txt) |              |
-Если нужно продолжить для других директорий (21-24, 25-40, 41-55), дай команду — сделаю
