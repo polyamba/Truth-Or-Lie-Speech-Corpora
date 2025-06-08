@@ -49,29 +49,52 @@
 | [М60 правда](./Audio/55%2B/М60%20говорит%20правда.m4a) | [ссылка](https://github.com/polyamba/Truth-Or-Lie-Speech-Corpora/blob/main/Transcriptions/М60%20говорит%20правда.mp3.txt) | [ссылка](./Annotation) |              |
 | [М60 врёт](./Audio/55%2B/М60%20врёт.m4a) | [ссылка](https://github.com/polyamba/Truth-Or-Lie-Speech-Corpora/blob/main/Transcriptions/М60%20врёт.mp3.txt) | [ссылка](./Annotation) |              |
 | [М60 3](./Audio/55%2B/М60%203.m4a) | [ссылка](https://github.com/polyamba/Truth-Or-Lie-Speech-Corpora/blob/main/Transcriptions/М60%203.mp3.txt) | [ссылка](./Annotation) |              |
-| Аудиофайл | Транскрипт | Разметка | Метаданные |
-|:----------|:-----------|:---------|:------------|
-| [Ж21 (1) говорит правду.mp3](./21-24/Ж21 (1) говорит правду.mp3) | [ссылка](./Transcriptions) | [ссылка](./Annotation) |  |
-| [Ж21 (2) говорит правду.mp3](./21-24/Ж21 (2) говорит правду.mp3) | [ссылка](./Transcriptions) | [ссылка](./Annotation) |  |
-| [М22 врëт.mp3](./21-24/М22 врëт.mp3) | [ссылка](./Transcriptions) | [ссылка](./Annotation) |  |
-| [Ж21 (1) врëт.mp3](./21-24/Ж21 (1) врëт.mp3) | [ссылка](./Transcriptions) | [ссылка](./Annotation) |  |
-| [Ж21 (1) 3.mp3](./21-24/Ж21 (1) 3.mp3) | [ссылка](./Transcriptions) | [ссылка](./Annotation) |  |
-| [М 23 3.m4a](./21-24/М 23 3.m4a) | [ссылка](./Transcriptions) | [ссылка](./Annotation) |  |
-| [М22 3.mp3](./21-24/М22 3.mp3) | [ссылка](./Transcriptions) | [ссылка](./Annotation) |  |
-| [Ж21 (2) врëт.mp3](./21-24/Ж21 (2) врëт.mp3) | [ссылка](./Transcriptions) | [ссылка](./Annotation) |  |
-| [М22 говорит правду.mp3](./21-24/М22 говорит правду.mp3) | [ссылка](./Transcriptions) | [ссылка](./Annotation) |  |
-| [Ж21 (2) 3.mp3](./21-24/Ж21 (2) 3.mp3) | [ссылка](./Transcriptions) | [ссылка](./Annotation) |  |
-| [М 23 правда.m4a](./21-24/М 23 правда.m4a) | [ссылка](./Transcriptions) | [ссылка](./Annotation) |  |
-| [М 23 ложь.m4a](./21-24/М 23 ложь.m4a) | [ссылка](./Transcriptions) | [ссылка](./Annotation) |  |
-| [Ж26 (2) говорит правду.mp3](./25-40/Ж26 (2) говорит правду.mp3) | [ссылка](./Transcriptions) | [ссылка](./Annotation) |  |
-| [М28 (2) 3.mp3](./25-40/М28 (2) 3.mp3) | [ссылка](./Transcriptions) | [ссылка](./Annotation) |  |
-| [Ж26 (1) говорит правду.mp3](./25-40/Ж26 (1) говорит правду.mp3) | [ссылка](./Transcriptions) | [ссылка](./Annotation) |  |
-| [М28 (2) врëт.mp3](./25-40/М28 (2) врëт.mp3) | [ссылка](./Transcriptions) | [ссылка](./Annotation) |  |
-| [Ж26 (1) врëт.mp3](./25-40/Ж26 (1) врëт.mp3) | [ссылка](./Transcriptions) | [ссылка](./Annotation) |  |
-| [Ж26 (2) 3.mp3](./25-40/Ж26 (2) 3.mp3) | [ссылка](./Transcriptions) | [ссылка](./Annotation) |  |
-| [М28 (1) 3.mp3](./25-40/М28 (1) 3.mp3) | [ссылка](./Transcriptions) | [ссылка](./Annotation) |  |
-| [Ж26 (2) врëт.mp3](./25-40/Ж26 (2) врëт.mp3) | [ссылка](./Transcriptions) | [ссылка](./Annotation) |  |
-| [М28 (1) врëт.mp3](./25-40/М28 (1) врëт.mp3) | [ссылка](./Transcriptions) | [ссылка](./Annotation) |  |
-| [Ж26 (1)  3.mp3](./25-40/Ж26 (1)  3.mp3) | [ссылка](./Transcriptions) | [ссылка](./Annotation) |  |
-| [М28 (2) говорит правду.mp3](./25-40/М28 (2) говорит правду.mp3) | [ссылка](./Transcriptions) | [ссылка](./Annotation) |  |
-| [М28 (1) говорит правду.mp3](./25-40/М28 (1) говорит правду.mp3) | [ссылка](./Transcriptions) | [ссылка](./Annotation) |  |
+| [Ж21 (1) говорит правду](https://github.com/polyamba/Truth-Or-Lie-Speech-Corpora/blob/main/Audio/21-24/Ж21%20(1)%20говорит%20правду.mp3) | [ссылка](./Transcriptions) | [ссылка](./Annotation) |  |
+| [Ж21 (2) говорит правду](https://github.com/polyamba/Truth-Or-Lie-Speech-Corpora/blob/main/Audio/21-24/Ж21%20(2)%20говорит%20правду.mp3) | [ссылка](./Transcriptions) | [ссылка](./Annotation) |  |
+| [М22 врëт](https://github.com/polyamba/Truth-Or-Lie-Speech-Corpora/blob/main/Audio/21-24/М22%20врёt.mp3) | [ссылка](./Transcriptions) | [ссылка](./Annotation) |  |
+| [Ж21 (1) врëт](https://github.com/polyamba/Truth-Or-Lie-Speech-Corpora/blob/main/Audio/21-24/Ж21%20(1)%20врёt.mp3) | [ссылка](./Transcriptions) | [ссылка](./Annotation) |  |
+| [Ж21 (1) 3](https://github.com/polyamba/Truth-Or-Lie-Speech-Corpora/blob/main/Audio/21-24/Ж21%20(1)%203.mp3) | [ссылка](./Transcriptions) | [ссылка](./Annotation) |  |
+| [М 23 3](https://github.com/polyamba/Truth-Or-Lie-Speech-Corpora/blob/main/Audio/21-24/М%2023%203.m4a) | [ссылка](./Transcriptions) | [ссылка](./Annotation) |  |
+| [М22 3](https://github.com/polyamba/Truth-Or-Lie-Speech-Corpora/blob/main/Audio/21-24/М22%203.mp3) | [ссылка](./Transcriptions) | [ссылка](./Annotation) |  |
+| [Ж21 (2) врëт](https://github.com/polyamba/Truth-Or-Lie-Speech-Corpora/blob/main/Audio/21-24/Ж21%20(2)%20врёt.mp3) | [ссылка](./Transcriptions) | [ссылка](./Annotation) |  |
+| [М22 говорит правду](https://github.com/polyamba/Truth-Or-Lie-Speech-Corpora/blob/main/Audio/21-24/М22%20говорит%20правду.mp3) | [ссылка](./Transcriptions) | [ссылка](./Annotation) |  |
+| [Ж21 (2) 3](https://github.com/polyamba/Truth-Or-Lie-Speech-Corpora/blob/main/Audio/21-24/Ж21%20(2)%203.mp3) | [ссылка](./Transcriptions) | [ссылка](./Annotation) |  |
+| [М 23 правда](https://github.com/polyamba/Truth-Or-Lie-Speech-Corpora/blob/main/Audio/21-24/М%2023%20правда.m4a) | [ссылка](./Transcriptions) | [ссылка](./Annotation) |  |
+| [М 23 ложь](https://github.com/polyamba/Truth-Or-Lie-Speech-Corpora/blob/main/Audio/21-24/М%2023%20ложь.m4a) | [ссылка](./Transcriptions) | [ссылка](./Annotation) |  |
+| [Ж26 (2) говорит правду](https://github.com/polyamba/Truth-Or-Lie-Speech-Corpora/blob/main/Audio/25-40/Ж26%20(2)%20говорит%20правду.mp3) | [ссылка](./Transcriptions) | [ссылка](./Annotation) |  |
+| [М28 (2) 3](https://github.com/polyamba/Truth-Or-Lie-Speech-Corpora/blob/main/Audio/25-40/М28%20(2)%203.mp3) | [ссылка](./Transcriptions) | [ссылка](./Annotation) |  |
+| [Ж26 (1) говорит правду](https://github.com/polyamba/Truth-Or-Lie-Speech-Corpora/blob/main/Audio/25-40/Ж26%20(1)%20говорит%20правду.mp3) | [ссылка](./Transcriptions) | [ссылка](./Annotation) |  |
+| [М28 (2) врëт](https://github.com/polyamba/Truth-Or-Lie-Speech-Corpora/blob/main/Audio/25-40/М28%20(2)%20врёt.mp3) | [ссылка](./Transcriptions) | [ссылка](./Annotation) |  |
+| [Ж26 (1) врëт](https://github.com/polyamba/Truth-Or-Lie-Speech-Corpora/blob/main/Audio/25-40/Ж26%20(1)%20врёt.mp3) | [ссылка](./Transcriptions) | [ссылка](./Annotation) |  |
+| [Ж26 (2) 3](https://github.com/polyamba/Truth-Or-Lie-Speech-Corpora/blob/main/Audio/25-40/Ж26%20(2)%203.mp3) | [ссылка](./Transcriptions) | [ссылка](./Annotation) |  |
+| [М28 (1) 3](https://github.com/polyamba/Truth-Or-Lie-Speech-Corpora/blob/main/Audio/25-40/М28%20(1)%203.mp3) | [ссылка](./Transcriptions) | [ссылка](./Annotation) |  |
+| [Ж26 (2) врëт](https://github.com/polyamba/Truth-Or-Lie-Speech-Corpora/blob/main/Audio/25-40/Ж26%20(2)%20врёt.mp3) | [ссылка](./Transcriptions) | [ссылка](./Annotation) |  |
+| [М28 (1) врëт](https://github.com/polyamba/Truth-Or-Lie-Speech-Corpora/blob/main/Audio/25-40/М28%20(1)%20врёt.mp3) | [ссылка](./Transcriptions) | [ссылка](./Annotation) |  |
+| [Ж26 (1) 3](https://github.com/polyamba/Truth-Or-Lie-Speech-Corpora/blob/main/Audio/25-40/Ж26%20(1)%203.mp3) | [ссылка](./Transcriptions) | [ссылка](./Annotation) |  |
+| [М28 (2) говорит правду](https://github.com/polyamba/Truth-Or-Lie-Speech-Corpora/blob/main/Audio/25-40/М28%20(2)%20говорит%20правду.mp3) | [ссылка](./Transcriptions) | [ссылка](./Annotation) |  |
+| [М28 (1) говорит правду](https://github.com/polyamba/Truth-Or-Lie-Speech-Corpora/blob/main/Audio/25-40/М28%20(1)%20говорит%20правду.mp3) | [ссылка](./Transcriptions) | [ссылка](./Annotation) |  |
+| [М47 врëт](https://github.com/polyamba/Truth-Or-Lie-Speech-Corpora/blob/main/Audio/41-55/М47%20врёt.mp3) | [ссылка](./Transcriptions) | [ссылка](./Annotation) |  |
+| [М41 врëт](https://github.com/polyamba/Truth-Or-Lie-Speech-Corpora/blob/main/Audio/41-55/М41%20врёt.mp3) | [ссылка](./Transcriptions) | [ссылка](./Annotation) |  |
+| [Ж46 врëт](https://github.com/polyamba/Truth-Or-Lie-Speech-Corpora/blob/main/Audio/41-55/Ж46%20врёt.mp3) | [ссылка](./Transcriptions) | [ссылка](./Annotation) |  |
+| [Ж46 говорит правду](https://github.com/polyamba/Truth-Or-Lie-Speech-Corpora/blob/main/Audio/41-55/Ж46%20говорит%20правду.mp3) | [ссылка](./Transcriptions) | [ссылка](./Annotation) |  |
+| [М47 3](https://github.com/polyamba/Truth-Or-Lie-Speech-Corpora/blob/main/Audio/41-55/М47%203.mp3) | [ссылка](./Transcriptions) | [ссылка](./Annotation) |  |
+| [Ж46 3](https://github.com/polyamba/Truth-Or-Lie-Speech-Corpora/blob/main/Audio/41-55/Ж46%203.mp3) | [ссылка](./Transcriptions) | [ссылка](./Annotation) |  |
+| [М41 3](https://github.com/polyamba/Truth-Or-Lie-Speech-Corpora/blob/main/Audio/41-55/М41%203.mp3) | [ссылка](./Transcriptions) | [ссылка](./Annotation) |  |
+| [Ж49 врëт](https://github.com/polyamba/Truth-Or-Lie-Speech-Corpora/blob/main/Audio/41-55/Ж49%20врёt.mp3) | [ссылка](./Transcriptions) | [ссылка](./Annotation) |  |
+| [М41 говорит правду](https://github.com/polyamba/Truth-Or-Lie-Speech-Corpora/blob/main/Audio/41-55/М41%20говорит%20правду.mp3) | [ссылка](./Transcriptions) | [ссылка](./Annotation) |  |
+| [М47 говорит правду](https://github.com/polyamba/Truth-Or-Lie-Speech-Corpora/blob/main/Audio/41-55/М47%20говорит%20правду.mp3) | [ссылка](./Transcriptions) | [ссылка](./Annotation) |  |
+| [Ж49 3](https://github.com/polyamba/Truth-Or-Lie-Speech-Corpora/blob/main/Audio/41-55/Ж49%203.mp3) | [ссылка](./Transcriptions) | [ссылка](./Annotation) |  |
+| [Ж49 говорит правду](https://github.com/polyamba/Truth-Or-Lie-Speech-Corpora/blob/main/Audio/41-55/Ж49%20говорит%20правду.mp3) | [ссылка](./Transcriptions) | [ссылка](./Annotation) |  |
+| [Ж58 говорит правду](https://github.com/polyamba/Truth-Or-Lie-Speech-Corpora/blob/main/Audio/55+/Ж58%20говорит%20правду.mp3) | [ссылка](./Transcriptions) | [ссылка](./Annotation) |  |
+| [Ж75 врëт](https://github.com/polyamba/Truth-Or-Lie-Speech-Corpora/blob/main/Audio/55+/Ж75%20врёt.mp3) | [ссылка](./Transcriptions) | [ссылка](./Annotation) |  |
+| [Ж75 говорит правду](https://github.com/polyamba/Truth-Or-Lie-Speech-Corpora/blob/main/Audio/55+/Ж75%20говорит%20правду.mp3) | [ссылка](./Transcriptions) | [ссылка](./Annotation) |  |
+| [М58 говорит правду](https://github.com/polyamba/Truth-Or-Lie-Speech-Corpora/blob/main/Audio/55+/М58%20говорит%20правду.mp3) | [ссылка](./Transcriptions) | [ссылка](./Annotation) |  |
+| [Ж58 3](https://github.com/polyamba/Truth-Or-Lie-Speech-Corpora/blob/main/Audio/55+/Ж58%203.mp3) | [ссылка](./Transcriptions) | [ссылка](./Annotation) |  |
+| [М58 врëт](https://github.com/polyamba/Truth-Or-Lie-Speech-Corpora/blob/main/Audio/55+/М58%20врёt.mp3) | [ссылка](./Transcriptions) | [ссылка](./Annotation) |  |
+| [Ж58 врëт](https://github.com/polyamba/Truth-Or-Lie-Speech-Corpora/blob/main/Audio/55+/Ж58%20врёt.mp3) | [ссылка](./Transcriptions) | [ссылка](./Annotation) |  |
+| [М58 3](https://github.com/polyamba/Truth-Or-Lie-Speech-Corpora/blob/main/Audio/55+/М58%203.mp3) | [ссылка](./Transcriptions) | [ссылка](./Annotation) |  |
+| [Ж75 (3)](https://github.com/polyamba/Truth-Or-Lie-Speech-Corpora/blob/main/Audio/55+/Ж75%20(3).mp3) | [ссылка](./Transcriptions) | [ссылка](./Annotation) |  |
+| [М60 говорит правда](https://github.com/polyamba/Truth-Or-Lie-Speech-Corpora/blob/main/Audio/55+/М60%20говорит%20правда.m4a) | [ссылка](./Transcriptions) | [ссылка](./Annotation) |  |
+| [М60 врëт](https://github.com/polyamba/Truth-Or-Lie-Speech-Corpora/blob/main/Audio/55+/М60%20врёt.m4a) | [ссылка](./Transcriptions) | [ссылка](./Annotation) |  |
+| [М60 3](https://github.com/polyamba/Truth-Or-Lie-Speech-Corpora/blob/main/Audio/55+/М60%203.m4a) | [ссылка](./Transcriptions) | [ссылка](./Annotation) |  |
+
