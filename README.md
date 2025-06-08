@@ -49,3 +49,29 @@
 | [М60 правда](./Audio/55%2B/М60%20говорит%20правда.m4a) | [ссылка](https://github.com/polyamba/Truth-Or-Lie-Speech-Corpora/blob/main/Transcriptions/М60%20говорит%20правда.mp3.txt) | [ссылка](./Annotation) |              |
 | [М60 врёт](./Audio/55%2B/М60%20врёт.m4a) | [ссылка](https://github.com/polyamba/Truth-Or-Lie-Speech-Corpora/blob/main/Transcriptions/М60%20врёт.mp3.txt) | [ссылка](./Annotation) |              |
 | [М60 3](./Audio/55%2B/М60%203.m4a) | [ссылка](https://github.com/polyamba/Truth-Or-Lie-Speech-Corpora/blob/main/Transcriptions/М60%203.mp3.txt) | [ссылка](./Annotation) |              |
+| Аудиофайл | Транскрипт | Разметка | Метаданные |
+|:----------|:-----------|:---------|:------------|
+| [Ж21 (1) говорит правду.mp3](./21-24/Ж21 (1) говорит правду.mp3) | [ссылка](./Transcriptions) | [ссылка](./Annotation) |  |
+| [Ж21 (2) говорит правду.mp3](./21-24/Ж21 (2) говорит правду.mp3) | [ссылка](./Transcriptions) | [ссылка](./Annotation) |  |
+| [М22 врëт.mp3](./21-24/М22 врëт.mp3) | [ссылка](./Transcriptions) | [ссылка](./Annotation) |  |
+| [Ж21 (1) врëт.mp3](./21-24/Ж21 (1) врëт.mp3) | [ссылка](./Transcriptions) | [ссылка](./Annotation) |  |
+| [Ж21 (1) 3.mp3](./21-24/Ж21 (1) 3.mp3) | [ссылка](./Transcriptions) | [ссылка](./Annotation) |  |
+| [М 23 3.m4a](./21-24/М 23 3.m4a) | [ссылка](./Transcriptions) | [ссылка](./Annotation) |  |
+| [М22 3.mp3](./21-24/М22 3.mp3) | [ссылка](./Transcriptions) | [ссылка](./Annotation) |  |
+| [Ж21 (2) врëт.mp3](./21-24/Ж21 (2) врëт.mp3) | [ссылка](./Transcriptions) | [ссылка](./Annotation) |  |
+| [М22 говорит правду.mp3](./21-24/М22 говорит правду.mp3) | [ссылка](./Transcriptions) | [ссылка](./Annotation) |  |
+| [Ж21 (2) 3.mp3](./21-24/Ж21 (2) 3.mp3) | [ссылка](./Transcriptions) | [ссылка](./Annotation) |  |
+| [М 23 правда.m4a](./21-24/М 23 правда.m4a) | [ссылка](./Transcriptions) | [ссылка](./Annotation) |  |
+| [М 23 ложь.m4a](./21-24/М 23 ложь.m4a) | [ссылка](./Transcriptions) | [ссылка](./Annotation) |  |
+| [Ж26 (2) говорит правду.mp3](./25-40/Ж26 (2) говорит правду.mp3) | [ссылка](./Transcriptions) | [ссылка](./Annotation) |  |
+| [М28 (2) 3.mp3](./25-40/М28 (2) 3.mp3) | [ссылка](./Transcriptions) | [ссылка](./Annotation) |  |
+| [Ж26 (1) говорит правду.mp3](./25-40/Ж26 (1) говорит правду.mp3) | [ссылка](./Transcriptions) | [ссылка](./Annotation) |  |
+| [М28 (2) врëт.mp3](./25-40/М28 (2) врëт.mp3) | [ссылка](./Transcriptions) | [ссылка](./Annotation) |  |
+| [Ж26 (1) врëт.mp3](./25-40/Ж26 (1) врëт.mp3) | [ссылка](./Transcriptions) | [ссылка](./Annotation) |  |
+| [Ж26 (2) 3.mp3](./25-40/Ж26 (2) 3.mp3) | [ссылка](./Transcriptions) | [ссылка](./Annotation) |  |
+| [М28 (1) 3.mp3](./25-40/М28 (1) 3.mp3) | [ссылка](./Transcriptions) | [ссылка](./Annotation) |  |
+| [Ж26 (2) врëт.mp3](./25-40/Ж26 (2) врëт.mp3) | [ссылка](./Transcriptions) | [ссылка](./Annotation) |  |
+| [М28 (1) врëт.mp3](./25-40/М28 (1) врëт.mp3) | [ссылка](./Transcriptions) | [ссылка](./Annotation) |  |
+| [Ж26 (1)  3.mp3](./25-40/Ж26 (1)  3.mp3) | [ссылка](./Transcriptions) | [ссылка](./Annotation) |  |
+| [М28 (2) говорит правду.mp3](./25-40/М28 (2) говорит правду.mp3) | [ссылка](./Transcriptions) | [ссылка](./Annotation) |  |
+| [М28 (1) говорит правду.mp3](./25-40/М28 (1) говорит правду.mp3) | [ссылка](./Transcriptions) | [ссылка](./Annotation) |  |
